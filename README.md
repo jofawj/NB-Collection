@@ -18,3 +18,5 @@ For my phase 1 is all about Machine Learning. Here is the following task :
 5. Graded Challenge 5 (Anomaly Detections) ([link](https://github.com/jofawj/NB-Collection/tree/master/Phase%201/Graded%20Challenge%205%20(Phase%201)))
 
 Hope it can be useful for you :smiling_face_with_three_hearts:
+
+-WJ
